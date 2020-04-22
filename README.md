@@ -1,4 +1,4 @@
-##DEMO
+## DEMO
 
 [Administrador de pacientes en React](https://themaff-citas.netlify.app)
 
